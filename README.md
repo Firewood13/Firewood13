@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @Firewood13
-- 👀 I’m interested in video game development!
-- 🌱 I’m currently learning C++ and the Unity Game Engine
-- 💞️ I’m not looking to collaborate on anything atm
-- 📫 How to reach me? Github! 
+- 👀 I’m interested in video game development and software development!
+- 🌱 I’m currently further learning C++ and the Unity Game Engine
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Swims is spelt the exact same upside down
 
 <!---
 Firewood13/Firewood13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
